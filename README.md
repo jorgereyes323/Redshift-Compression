@@ -1,10 +1,5 @@
 # Database Column Compression Implementation
 
-**Script:** TOPCompressionUpdate.sql  
-**Created by:** Jorge Reyes, DAAB.BSSD@fiscal.treasury.gov  
-**Date:** 07/31/2020  
-**Description:** Updating TOP compression encoding for tstg tables based on Redshift recommendations using DEEP COPY method
-
 This document contains SQL scripts for implementing column compression on database tables to improve query performance through reduced disk I/O operations.
 
 ## Overview
