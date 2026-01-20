@@ -6,8 +6,6 @@ This document contains SQL scripts for implementing column compression on databa
 
 Column compression significantly impacts query performance by reducing the space required on disk, which decreases the number of disk I/O operations needed during query execution.
 
-## Process Steps
-
 ## Amazon Redshift Encoding Types
 
 ### Primary Encodings Used
